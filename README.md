@@ -1,2 +1,1 @@
-# git-lab
-Test for Git Lab
+It's the first time for gitting
